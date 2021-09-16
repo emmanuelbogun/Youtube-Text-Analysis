@@ -5,3 +5,4 @@ First of all, the sentiment analysis of the text is going to be performed.
 Then the graphical representation of those sentiment using wordcloud.
 Finally, we'll analyze the trending tag from a youtube video and explore the relationships between views and likes/dislikes.
 
+get the GBComment csv file with this link https://drive.google.com/file/d/1g0IcnGwwQ5mltcJkzQh7klCDO-Um31gc/view?usp=sharing
